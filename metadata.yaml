@@ -1,10 +1,16 @@
 _repo: Education-of-a-Martian_50877
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50877-h/images/cover.jpg
 creator:
   author:
     agent_name: Shallit, Joseph
     gutenberg_agent_id: '46122'
     url: http://www.gutenberg.org/2009/agents/46122
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50877#Education-of-a-Martian
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-01-08'
 gutenberg_type: Text
